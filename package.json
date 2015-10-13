@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/nyusaf/viewmaster/issues"
   },
-  "homepage": "https://github.com/nyusaf/viewmaster#readme",
+  "readmeFilename": "README.md",
   "devDependencies": {
     "chai": "^3.3.0",
     "gulp": "^3.9.0",
